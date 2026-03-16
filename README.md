@@ -37,19 +37,28 @@ cd <project-folder>
 ### 2. Install dependencies
 
 ```bash
+npm install vite@latest <app-name>
 npm install
 ```
 
 ### 3. Run the development server
 
 ```bash
-npm start
+npm run dev
+```
+
+### 4. Upgrade Node.js version globally
+
+```bash
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
 ```
 
 The application will start and be available at:
 
 ```
-http://localhost:3000
+http://localhost:5175
 ```
 
 ## Features
