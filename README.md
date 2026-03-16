@@ -18,10 +18,11 @@ The application is built as a **modern single-page application (SPA)** using Rea
 
 The project was built using the following technologies:
 
-- **React** (bootstrapped with Create React App)
+- **React** (bootstrapped with React + Vite)
 - **Tailwind CSS** for styling
 - **react-router-dom** for client-side routing
 - **framer-motion** for animations
+- **react-icons** for style icons
 
 ## Getting Started
 
