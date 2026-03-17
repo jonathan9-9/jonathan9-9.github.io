@@ -1,8 +1,13 @@
+import React from "react";
+import Banner from "./components/banner/Banner";
+
 function App() {
   return (
-    <h2 className="text-2xl font-bold text-white bg-gradient-to-r from-green-400 to-green-600 p-4 rounded-lg">
-      Hello, World!
-    </h2>
+    <div className="w-full h-auto bg-bodyColor text-lightText px-4">
+      <div className="max-w-screen-xl mx-auto">
+        <Banner />
+      </div>
+    </div>
   );
 }
 

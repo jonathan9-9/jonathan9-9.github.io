@@ -16,8 +16,8 @@ const LeftBanner = () => {
         <h1 className="text-6xl font-bold text-white">
           Hi, I'm{" "}
           <span
-            className="text-emerald-400 capitalize"
-            style={{ color: "#00ff00" }}
+            className="text-blue-500 capitalize"
+            style={{ color: "#cfab69" }}
           >
             Jonathan Cornejo
           </span>
@@ -27,7 +27,7 @@ const LeftBanner = () => {
           <Cursor
             cursorBlinking="false"
             cursorStyle="|"
-            cursorColor="#00FF00"
+            cursorColor="#cfab69"
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
