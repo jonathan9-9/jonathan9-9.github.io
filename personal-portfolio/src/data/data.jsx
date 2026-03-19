@@ -1,5 +1,5 @@
 import { FaGlobe } from "react-icons/fa";
-import { SiProgress, SiAzuredevops } from "react-icons/si";
+import { SiProgress, SiGithubactions } from "react-icons/si";
 import { HiLightBulb } from "react-icons/hi";
 import { HiComputerDesktop } from "react-icons/hi2";
 import { CgWebsite } from "react-icons/cg";
@@ -32,7 +32,7 @@ export const featuresData = [
   },
   {
     id: 5,
-    icon: <SiAzuredevops />,
+    icon: <SiGithubactions />,
     title: "DevOps",
     des: "I possess experience in DevOps, focusing in continuous integration and continuous deployment (CI/CD) pipelines and Docker containerization. My role has been pivotal in automating the software development lifecycle, ensuring efficient and reliable deployments across development, testing, and staging environments.",
   },
