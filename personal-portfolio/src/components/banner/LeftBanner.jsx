@@ -19,7 +19,7 @@ const LeftBanner = () => {
             className="text-blue-500 capitalize"
             style={{ color: "#cfab69" }}
           >
-            Jonathan Cornejo
+            Jonathan
           </span>
         </h1>
         <h2 className="text-4xl font-bold text-white">

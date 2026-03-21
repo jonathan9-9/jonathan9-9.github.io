@@ -36,21 +36,21 @@ const Projects = () => {
         <ProjectsCard
           title="Unknown Project"
           des="Work in progress"
-          src="https://firebasestorage.googleapis.com/v0/b/my-first-project-portfol-6847b.appspot.com/o/d-koi-jKZdHpGFpjc-unsplash.jpg?alt=media&token=702aa23a-c564-4c31-9e99-88668b6e67b1&_gl=1*g32lxn*_ga*Njk2NjUxNTMzLjE2OTUwNjY5OTI.*_ga_CW55HF8NVT*MTY5NTk2Nzc4MS4xMC4xLjE2OTU5NzA2NTIuNTMuMC4w"
+          src="https://d2j2uxe7jasn0r.cloudfront.net/thumbnails/video/rMadI-Zz9l0vd44f0/videoblocks-question-mark-symbol_hbcmmg3ea_thumbnail-180_05.jpg"
           gitlink=""
           videoSrc=""
         />
         <ProjectsCard
           title="Unknown Project"
           des="Work in progress."
-          src="https://firebasestorage.googleapis.com/v0/b/my-first-project-portfol-6847b.appspot.com/o/d-koi-jKZdHpGFpjc-unsplash.jpg?alt=media&token=702aa23a-c564-4c31-9e99-88668b6e67b1&_gl=1*g32lxn*_ga*Njk2NjUxNTMzLjE2OTUwNjY5OTI.*_ga_CW55HF8NVT*MTY5NTk2Nzc4MS4xMC4xLjE2OTU5NzA2NTIuNTMuMC4w"
+          src="https://d2j2uxe7jasn0r.cloudfront.net/thumbnails/video/rMadI-Zz9l0vd44f0/videoblocks-question-mark-symbol_hbcmmg3ea_thumbnail-180_05.jpg"
           gitlink=""
           videoSrc=""
         />
         <ProjectsCard
           title="Unknown Project"
           des="Work in progress."
-          src="https://firebasestorage.googleapis.com/v0/b/my-first-project-portfol-6847b.appspot.com/o/d-koi-jKZdHpGFpjc-unsplash.jpg?alt=media&token=702aa23a-c564-4c31-9e99-88668b6e67b1&_gl=1*g32lxn*_ga*Njk2NjUxNTMzLjE2OTUwNjY5OTI.*_ga_CW55HF8NVT*MTY5NTk2Nzc4MS4xMC4xLjE2OTU5NzA2NTIuNTMuMC4w"
+          src="https://d2j2uxe7jasn0r.cloudfront.net/thumbnails/video/rMadI-Zz9l0vd44f0/videoblocks-question-mark-symbol_hbcmmg3ea_thumbnail-180_05.jpg"
           gitlink=""
           videoSrc=""
         />
