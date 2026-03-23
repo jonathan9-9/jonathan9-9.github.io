@@ -2,6 +2,7 @@ import React from "react";
 import Banner from "./components/banner/Banner";
 import Features from "./components/features/Features";
 import Projects from "./components/projects/Projects";
+import FooterBottom from "./components/footer/FooterBottom";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Banner />
         <Features />
         <Projects />
+        <FooterBottom />
       </div>
     </div>
   );
