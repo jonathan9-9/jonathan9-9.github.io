@@ -3,6 +3,7 @@ import Banner from "./components/banner/Banner";
 import Features from "./components/features/Features";
 import Projects from "./components/projects/Projects";
 import FooterBottom from "./components/footer/FooterBottom";
+import Testimonial from "./components/testimonial/Testimonial";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Banner />
         <Features />
         <Projects />
+        <Testimonial />
         <FooterBottom />
       </div>
     </div>
