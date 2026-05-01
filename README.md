@@ -18,3 +18,11 @@ Run the following command in your terminal:
 
 ```bash
 git clone https://github.com/jonathan9-9/jonathan9-9.github.io.git
+```
+
+To start project run the following in terminal:
+```bash
+npm run build
+npm run dev
+
+
